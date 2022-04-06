@@ -13,11 +13,7 @@ public class PlayerAirBoostState : PlayerBaseState
     {
         _ctx.animator.SetTrigger("doubleJump");
         _ctx.canDoubleJump = false;
-
-        //Slow
         _ctx.currentMovement *= .4f;
-
-        //TODO: Gravity
     }
     public override void UpdateState(){}
     public override void ExitState(){}
@@ -33,8 +29,7 @@ public class PlayerAirBoostState : PlayerBaseState
     public override void Trigger(int damage, Vector3 position){}
 
     void BoostDash()
-    { 
-        //_ctx.lookTarget.Freeze(.26f);
+    {
         _ctx.QuickRotation(new Vector3(_ctx.lastMovementInput.x, 0, _ctx.lastMovementInput.y));
 
         if(_ctx.isMovementPressed)
