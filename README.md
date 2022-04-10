@@ -3,6 +3,8 @@ Third-person character controller for Unity featuring combat and parkour. It use
 
 ### Movement
 - Walk & Running
+- Jumping
+- Air Boost (Double Jump)
 - Dashing
 - Climbing up walls
 - Wallrun
