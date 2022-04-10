@@ -1,17 +1,18 @@
 # Third Person Parkour and Freeflow Combat
-Third-person character controller featuring combat and parkour. Using a hierarchical state machine and Unity Mecanim.
+Third-person character controller for Unity featuring combat and parkour. It uses a Hierarchical State Machine.
 
 ### Movement
-- Movement and camera orbit
+- Walk & Running
 - Dashing
 - Climbing up walls
 - Wallrun
 - Sliding down ramps
 
 ### Combat
-- Freeflow system
+- Freeflow system (inspired by games like Insomniac's Spiderman and Batman: Arkham City)
 - TargetGroup camera
 - Visual feedback
+
 
 <img src="https://github.com/MrAlvaroRamirez/BranchingDialogueGraph/blob/main/gifs/graph.gif" width="60%"/>
 <img src="https://i.imgur.com/z1Mzs2i.png" width="60%"/>
