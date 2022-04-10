@@ -12,6 +12,7 @@ Third-person character controller for Unity featuring combat and parkour. It use
 - Freeflow system (inspired by games like Insomniac's Spiderman and Batman: Arkham City)
 - TargetGroup camera
 - Visual feedback
+- Basic enemy AI/Manager (surround the player and wait for a chance to attack)
 
 
 <img src="https://github.com/MrAlvaroRamirez/BranchingDialogueGraph/blob/main/gifs/graph.gif" width="60%"/>
