@@ -9,14 +9,11 @@ Third-person character controller for Unity featuring combat and parkour. It use
 - Climbing up walls
 - Wallrun
 - Sliding down ramps
+<img src="https://github.com/MrAlvaroRamirez/ThirdPersonActionHSM/blob/main/gifs/parkour.gif" width="60%"/>
 
 ### Combat
 - Freeflow system (inspired by games like Insomniac's Spiderman and Batman: Arkham City)
 - TargetGroup camera
 - Visual feedback
 - Basic enemy AI/Manager (surround the player and wait for a chance to attack)
-
-
-<img src="https://github.com/MrAlvaroRamirez/BranchingDialogueGraph/blob/main/gifs/graph.gif" width="60%"/>
-<img src="https://i.imgur.com/z1Mzs2i.png" width="60%"/>
-<img src="https://github.com/MrAlvaroRamirez/BranchingDialogueGraph/blob/main/gifs/dialogue.gif" width="60%"/>
+<img src="https://github.com/MrAlvaroRamirez/ThirdPersonActionHSM/blob/main/gifs/combat1.gif" width="60%"/>
