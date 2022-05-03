@@ -9,6 +9,7 @@ Third-person character controller for Unity featuring combat and parkour. It use
 - Climbing up walls
 - Wallrun
 - Sliding down ramps
+<img src="https://github.com/MrAlvaroRamirez/ThirdPersonActionHSM/blob/main/gifs/dash.gif" width="60%"/>
 <img src="https://github.com/MrAlvaroRamirez/ThirdPersonActionHSM/blob/main/gifs/parkour1.gif" width="60%"/>
 <img src="https://github.com/MrAlvaroRamirez/ThirdPersonActionHSM/blob/main/gifs/parkour2.gif" width="60%"/>
 
